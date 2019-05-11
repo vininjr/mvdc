@@ -24,6 +24,15 @@ sudo ./install.sh
 
 You many need `sudo` permissions to run `install.sh`.
 
+### Update
+
+```
+sudo chmod +x update.sh
+sudo ./update.sh
+```
+
+You many need `sudo` permissions to run `update.sh`.
+
 Usage
 -----
 
