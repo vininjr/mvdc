@@ -3,7 +3,8 @@ mvdc
 
 [![Build Status](https://travis-ci.org/vasi/pixz.svg?branch=master)](https://vininjr.github.io)
 
-mvdc is a linux decompress file.
+mvdc is a file decompress manager easy and simpler for the linux.
+
 
 ### Dependencies
 
