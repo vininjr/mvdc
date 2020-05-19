@@ -9,8 +9,8 @@ mvdc is a file decompress manager easy and simpler for the linux.
 ### Supported Formats
 
 -   tar
--   unzip
--   unrar
+-   zip
+-   rar
 -   gzip
 -   bzip2
 -   lzma
