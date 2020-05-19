@@ -6,13 +6,15 @@ mvdc
 mvdc is a file decompress manager easy and simpler for the linux.
 
 
-### Dependencies
+### Supported Formats
 
 -   tar
 -   unzip
 -   unrar
 -   gzip
 -   bzip2
+-   lzma
+-   7z
 
 ### Build from GitHub
 
